@@ -14,7 +14,7 @@ This project demonstrates the design and simulation of a **dual-band microstrip 
 
 ## 🧮 Calculations
 
-<img src="images/fig14.png" width="450"><img src="images/fig5.png" width="450">
+<img src="images/fig14.png" width="350"><img src="images/fig5.png" width="350">
 <img src="images/fig10.png" width="450"><img src="images/fig17.png" width="450">
 <img src="images/fig2.png" width="500">
 
