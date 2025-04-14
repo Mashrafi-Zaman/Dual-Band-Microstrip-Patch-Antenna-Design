@@ -1,5 +1,7 @@
 # Dual Band Microstrip Patch Antenna Design
 
+---
+
 This project demonstrates the design and simulation of a **dual-band microstrip patch antenna** operating at **2 GHz** and **5 GHz** using **CST Studio Suite 2022**. The antenna is optimized for modern wireless communication systems requiring compact size, high efficiency, and multi-band capability.
 
 
@@ -12,16 +14,19 @@ This project demonstrates the design and simulation of a **dual-band microstrip 
 - **Feed Technique**: Inset Microstrip
 - **Software**: CST Studio Suite 2022
 
+
+---
 ## 🧮 Calculations
 <div align="center">
 <img src="images/fig14.png" width="400"><img src="images/fig5.png" width="400">
 <img src="images/fig10.png" width="400"><img src="images/fig17.png" width="400">
 <img src="images/fig2.png" width="400">
 </div>
----
+
  
 
-### 📐 Antenna Geometry
+---
+
 
 ### 📊 Complete Parameter List
 
